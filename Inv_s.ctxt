@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Inv_s
+comment0.text=\r\n\ Investications\ of\ suspects\r\n\ \r\n\ @author\ Caleb\ Han\ and\ Elynn\ An\ \r\n
+comment1.params=
+comment1.target=Inv_s()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ checkC()
+comment4.params=
+comment4.target=int[]\ getMouse()
+numComments=5
