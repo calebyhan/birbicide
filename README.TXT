@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+**Project Portfolio: https://github.com/calebyhan/CalebHan** 
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Bird crime-themed game developed by Caleb Han (main developer) and Elynn An (main storyboarder and artist) for FHS HMCA taught by Mrs. Finchum.
+
+This application is developed based off of Greenfoot's (https://www.greenfoot.org/door) library and environment. This project was considered as a final for the class.
+
+All credits go to Greenfoot and those listed in /images/Credits.jpg
